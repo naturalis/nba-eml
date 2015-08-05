@@ -6,17 +6,15 @@
          xml:lang="eng">
 
 <dataset>
-  <alternateIdentifier>http://www.gbif.org/dataset/7b33b040-f762-11e1-a439-00145eb45e9a</alternateIdentifier>
   <alternateIdentifier>10791a2e-9980-49b6-b83e-86643d609b02</alternateIdentifier>
-  <alternateIdentifier>http://ipt.naturalis.nl/resource.do?r=botany_l</alternateIdentifier>
-  <title xml:lang="eng">Naturalis Biodiversity Center (NL) - Botany Leiden</title>
+  <title xml:lang="eng">Naturalis Biodiversity Center (NL) - Botany</title>
 <creator>
     <individualName>
         <givenName>Jeroen</givenName>
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>IPT Administrator</positionName>
+    <positionName>Data manager</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -24,7 +22,7 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.5687600</phone>
+    <phone>+31.71.7519600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </creator>
@@ -34,7 +32,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>IPT Administrator</positionName>
+    <positionName>Data manager</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -42,17 +40,16 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.5687600</phone>
+    <phone>+31.71.7519600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </metadataProvider>
 <pubDate>
-      	2014-12-09
+      	2015-07-29
 </pubDate>
 <language>mul</language>
 <abstract>
-  <para>This database contains specimen records from the former herbarium of the Leiden University within the botanical collection of the Naturalis Biodiversity Center (Leiden, Netherlands). The Department of Botany houses the National Herbarium of the Netherlands (NHN) which consists of herbarium collections of the universities of Leiden, Wageningen and Utrecht. In 2010 the collection of the University of Amsterdam also moved to Naturalis.The focal areas of the collection are Southeast Asia, tropical America, tropical Africa and the Netherlands. The former herbarium of the Leiden University (acronym: L) contains about 4 million specimens and has extensive collections from Southeast Asia, especially from Indonesia and New Guinea, but it also holds a large collection of palearctic plants, and is the principle herbarium for Dutch plants. As the oldest Dutch herbarium, it also contains several historic collections.</para>
-</abstract>
+  <para>This database contains specimen records from the botanical collection of the Naturalis Biodiversity Center (Leiden, Netherlands). The Department of Botany houses the former National Herbarium of the Netherlands (NHN) which consists of herbarium collections of the universities of Leiden (L), Wageningen (WAG) and Utrecht (U). In 2010 the collection of the University of Amsterdam also moved to Naturalis. The focal areas of the collection are Southeast Asia, tropical America, tropical Africa and the Netherlands. The former herbarium of the Leiden University (acronym: L) contains about 4 million specimens and has extensive collections from Southeast Asia, especially from Indonesia and New Guinea, but it also holds a large collection of palearctic plants, and is the principle herbarium for Dutch plants. As the oldest Dutch herbarium, it also contains several historic collections.</para></abstract>
       <keywordSet>
             <keyword>Occurrence</keyword>
         <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
@@ -96,7 +93,7 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.5687600</phone>
+    <phone>+31.71.7519600</phone>
     <electronicMailAddress>collectie@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
   </contact>

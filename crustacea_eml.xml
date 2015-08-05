@@ -15,7 +15,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>IPT Administrator</positionName>
+    <positionName>Data manager</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -33,7 +33,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>IPT Administrator</positionName>
+    <positionName>Data manager</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -45,25 +45,6 @@
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </metadataProvider>
-    <associatedParty>
-    <individualName>
-        <givenName>Jeroen</givenName>
-      <surName>Creuwels</surName>
-    </individualName>
-    <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>IPT Administrator</positionName>
-    <address>
-        <deliveryPoint>PO Box 9517</deliveryPoint>
-        <city>Leiden</city>
-        <administrativeArea>Zuid Holland</administrativeArea>
-        <postalCode>NL-2300 RA</postalCode>
-        <country>NL</country>
-    </address>
-    <phone>+31.71.7519600</phone>
-    <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
-    <onlineUrl>http://science.naturalis.nl</onlineUrl>
-    <role>user</role>
-    </associatedParty>
 <pubDate>
       	2015-05-04
 </pubDate>
