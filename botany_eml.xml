@@ -2,7 +2,7 @@
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
-         packageId="10791a2e-9980-49b6-b83e-86643d609b02/v10" system="http://gbif.org" scope="system"
+         packageId="10791a2e-9980-49b6-b83e-86643d609b02/v14" system="http://gbif.org" scope="system"
          xml:lang="eng">
 
 <dataset>
@@ -42,7 +42,7 @@
     </address>
     <phone>+31.71.7519600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
-    <onlineUrl>http://science.naturalis.nl</onlineUrl>
+    <onlineUrl>https://science.naturalis.nl/en/collection/naturalis-collections/</onlineUrl>
 </metadataProvider>
 <pubDate>
       	2015-07-29
@@ -101,10 +101,10 @@
   <additionalMetadata>
     <metadata>
       <gbif>
-          <dateStamp>2013-12-04T01:12:58.807+00:00</dateStamp>
+          <dateStamp>2015-11-25T14:31:58.807+00:00</dateStamp>
           <hierarchyLevel>dataset</hierarchyLevel>
-          <resourceLogoUrl>http://ipt.naturalis.nl/logo.do?r=botany_l</resourceLogoUrl>
-          <dc:replaces>10791a2e-9980-49b6-b83e-86643d609b02/v9.xml</dc:replaces>
+          <resourceLogoUrl>http://www.naturalis.nl/media/library/2012/07/Naturalis_logo_staand_rood_01.jpg</resourceLogoUrl>
+          <dc:replaces>10791a2e-9980-49b6-b83e-86643d609b02/v13.xml</dc:replaces>
       </gbif>
     </metadata>
   </additionalMetadata>
