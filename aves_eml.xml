@@ -2,7 +2,7 @@
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
-         packageId="xxxx" system="http://gbif.org" scope="system"
+         packageId="889c91a3-614f-4355-8df8-b6d0260a118c" system="http://gbif.org" scope="system"
          xml:lang="eng">
 
 <dataset>
