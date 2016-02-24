@@ -1,7 +1,7 @@
 ﻿<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
          packageId="6a0a95c6-c07a-4c35-9e9f-f776e8730fd4" system="http://gbif.org" scope="system"
          xml:lang="eng">
 
