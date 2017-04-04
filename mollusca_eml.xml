@@ -1,13 +1,14 @@
-﻿<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
-         packageId="d962a7dc-2183-4824-bb88-5e0ba14ec62d/v7" system="http://gbif.org" scope="system"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="d962a7dc-2183-4824-bb88-5e0ba14ec62d/v5" system="http://gbif.org" scope="system"
          xml:lang="eng">
 
 <dataset>
   <alternateIdentifier>http://www.gbif.org/dataset/d962a7dc-2183-4824-bb88-5e0ba14ec62d</alternateIdentifier>
   <alternateIdentifier>d962a7dc-2183-4824-bb88-5e0ba14ec62d</alternateIdentifier>
+  <alternateIdentifier>http://ipt.naturalis.nl/resource.do?r=mollusca</alternateIdentifier>
   <title xml:lang="eng">Naturalis Biodiversity Center (NL) - Mollusca</title>
 <creator>
     <individualName>
@@ -15,7 +16,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -23,7 +24,7 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </creator>
@@ -33,7 +34,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -41,12 +42,12 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </metadataProvider>
 <pubDate>
-      	2016-02-24
+      	2014-08-19
 </pubDate>
 <language>mul</language>
 <abstract>
@@ -95,9 +96,9 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>collectie@naturalis.nl</electronicMailAddress>
-    <onlineUrl>https://science.naturalis.nl/en/collection/naturalis-collections/</onlineUrl>
+    <onlineUrl>http://science.naturalis.nl</onlineUrl>
   </contact>
   <methods>
         <methodStep>
@@ -120,10 +121,10 @@
   <additionalMetadata>
     <metadata>
       <gbif>
-          <dateStamp>2015-11-25T16:40:05.542+00:00</dateStamp>
+          <dateStamp>2012-12-20T10:59:05.542+00:00</dateStamp>
           <hierarchyLevel>dataset</hierarchyLevel>
-          <resourceLogoUrl>http://www.naturalis.nl/media/library/2012/07/Naturalis_logo_staand_rood_01.jpg</resourceLogoUrl>
-          <dc:replaces>d962a7dc-2183-4824-bb88-5e0ba14ec62d/v6.xml</dc:replaces>
+          <resourceLogoUrl>http://ipt.naturalis.nl/logo.do?r=mollusca</resourceLogoUrl>
+          <dc:replaces>d962a7dc-2183-4824-bb88-5e0ba14ec62d/v4.xml</dc:replaces>
       </gbif>
     </metadata>
   </additionalMetadata>

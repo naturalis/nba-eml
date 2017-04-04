@@ -1,13 +1,14 @@
-﻿<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
-         packageId="4b7f1713-7011-4083-8f78-c5502228f0a5/v344" system="http://gbif.org" scope="system"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="4b7f1713-7011-4083-8f78-c5502228f0a5/v259" system="http://gbif.org" scope="system"
          xml:lang="eng">
 
 <dataset>
   <alternateIdentifier>http://www.gbif.org/dataset/4b7f1713-7011-4083-8f78-c5502228f0a5</alternateIdentifier>
   <alternateIdentifier>4b7f1713-7011-4083-8f78-c5502228f0a5</alternateIdentifier>
+  <alternateIdentifier>http://ipt.naturalis.nl/resource.do?r=mammalia</alternateIdentifier>
   <title xml:lang="eng">Naturalis Biodiversity Center (NL) - Mammalia</title>
 <creator>
     <individualName>
@@ -15,7 +16,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -23,7 +24,7 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </creator>
@@ -33,7 +34,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -41,12 +42,12 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </metadataProvider>
 <pubDate>
-      	2016-02-24
+      	2015-03-18
 </pubDate>
 <language>mul</language>
 <abstract>
@@ -95,18 +96,18 @@
         <postalCode>NL 2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>collectie@naturalis.nl</electronicMailAddress>
-    <onlineUrl>https://science.naturalis.nl/en/collection/naturalis-collections/</onlineUrl>
+    <onlineUrl>http://science.naturalis.nl</onlineUrl>
   </contact>
 </dataset>
   <additionalMetadata>
     <metadata>
       <gbif>
-          <dateStamp>2015-11-25T16:34:12.730+00:00</dateStamp>
+          <dateStamp>2013-12-04T12:37:12.730+00:00</dateStamp>
           <hierarchyLevel>dataset</hierarchyLevel>
-          <resourceLogoUrl>http://www.naturalis.nl/media/library/2012/07/Naturalis_logo_staand_rood_01.jpg</resourceLogoUrl>
-          <dc:replaces>4b7f1713-7011-4083-8f78-c5502228f0a5/v343.xml</dc:replaces>
+          <resourceLogoUrl>http://ipt.naturalis.nl/logo.do?r=mammalia</resourceLogoUrl>
+          <dc:replaces>4b7f1713-7011-4083-8f78-c5502228f0a5/v258.xml</dc:replaces>
       </gbif>
     </metadata>
   </additionalMetadata>

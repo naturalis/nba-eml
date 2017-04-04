@@ -1,12 +1,14 @@
 <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
-         packageId="b4aad9c3-518b-4550-82de-c70a7ead1b64/v251" system="http://gbif.org" scope="system"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="b4aad9c3-518b-4550-82de-c70a7ead1b64/v167" system="http://gbif.org" scope="system"
          xml:lang="eng">
 
 <dataset>
+  <alternateIdentifier>fdbb6aab-c7dc-97d7-7f9689f5640a</alternateIdentifier>
   <alternateIdentifier>b4aad9c3-518b-4550-82de-c70a7ead1b64</alternateIdentifier>
+  <alternateIdentifier>http://ipt.naturalis.nl/resource.do?r=chelicerata_myriapoda</alternateIdentifier>
   <title xml:lang="eng">Naturalis Biodiversity Center (NL) - Chelicerata and Myriapoda</title>
 <creator>
     <individualName>
@@ -14,7 +16,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -22,7 +24,7 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </creator>
@@ -32,7 +34,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -40,12 +42,31 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </metadataProvider>
+    <associatedParty>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Creuwels</surName>
+    </individualName>
+    <organizationName>Naturalis Biodiversity Center</organizationName>
+    <positionName>IPT Administrator</positionName>
+    <address>
+        <deliveryPoint>PO Box 9517</deliveryPoint>
+        <city>Leiden</city>
+        <administrativeArea>Zuid Holland</administrativeArea>
+        <postalCode>NL-2300 RA</postalCode>
+        <country>NL</country>
+    </address>
+    <phone>+31.71.5687600</phone>
+    <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
+    <onlineUrl>http://science.naturalis.nl</onlineUrl>
+    <role>user</role>
+    </associatedParty>
 <pubDate>
-      	2016-02-24
+      	2015-03-18
 </pubDate>
 <language>mul</language>
 <abstract>
@@ -93,18 +114,18 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>collectie@naturalis.nl</electronicMailAddress>
-    <onlineUrl>https://science.naturalis.nl/en/collection/naturalis-collections/</onlineUrl>
+    <onlineUrl>http://science.naturalis.nl</onlineUrl>
   </contact>
 </dataset>
   <additionalMetadata>
     <metadata>
       <gbif>
-          <dateStamp>2015-11-25T16:08:48.879+00:00</dateStamp>
+          <dateStamp>2014-08-20T11:59:48.879+00:00</dateStamp>
           <hierarchyLevel>dataset</hierarchyLevel>
-          <resourceLogoUrl>http://www.naturalis.nl/media/library/2012/07/Naturalis_logo_staand_rood_01.jpg</resourceLogoUrl>
-          <dc:replaces>b4aad9c3-518b-4550-82de-c70a7ead1b64/v250.xml</dc:replaces>
+          <resourceLogoUrl>http://162.13.191.67/logo.do?r=chelicerata_myriapoda</resourceLogoUrl>
+          <dc:replaces>b4aad9c3-518b-4550-82de-c70a7ead1b64/v166.xml</dc:replaces>
       </gbif>
     </metadata>
   </additionalMetadata>

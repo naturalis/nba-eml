@@ -1,12 +1,13 @@
-﻿<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
-         packageId="fccafd83-a934-4021-a112-4ae5fd39c14b/v199" system="http://gbif.org" scope="system"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.0.2/eml.xsd"
+         packageId="fccafd83-a934-4021-a112-4ae5fd39c14b/v115" system="http://gbif.org" scope="system"
          xml:lang="eng">
 
 <dataset>
   <alternateIdentifier>fccafd83-a934-4021-a112-4ae5fd39c14b</alternateIdentifier>
+  <alternateIdentifier>http://ipt.naturalis.nl/resource.do?r=amphibia_reptilia</alternateIdentifier>
   <title xml:lang="eng">Naturalis Biodiversity Center (NL) - Amphibia and Reptilia</title>
 <creator>
     <individualName>
@@ -14,7 +15,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -22,7 +23,7 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </creator>
@@ -32,7 +33,7 @@
       <surName>Creuwels</surName>
     </individualName>
     <organizationName>Naturalis Biodiversity Center</organizationName>
-    <positionName>Data manager</positionName>
+    <positionName>IPT Administrator</positionName>
     <address>
         <deliveryPoint>PO Box 9517</deliveryPoint>
         <city>Leiden</city>
@@ -40,12 +41,31 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </metadataProvider>
+    <associatedParty>
+    <individualName>
+        <givenName>Jeroen</givenName>
+      <surName>Creuwels</surName>
+    </individualName>
+    <organizationName>Naturalis Biodiversity Center</organizationName>
+    <positionName>IPT Administrator</positionName>
+    <address>
+        <deliveryPoint>PO Box 9517</deliveryPoint>
+        <city>Leiden</city>
+        <administrativeArea>Zuid Holland</administrativeArea>
+        <postalCode>NL-2300 RA</postalCode>
+        <country>NL</country>
+    </address>
+    <phone>+31.71.5687600</phone>
+    <electronicMailAddress>informatiemanagement@naturalis.nl</electronicMailAddress>
+    <onlineUrl>http://science.naturalis.nl</onlineUrl>
+    <role>user</role>
+    </associatedParty>
 <pubDate>
-      	2016-02-24
+      	2015-03-18
 </pubDate>
 <language>mul</language>
 <abstract>
@@ -87,18 +107,18 @@
         <postalCode>NL-2300 RA</postalCode>
         <country>NL</country>
     </address>
-    <phone>+31.71.7519600</phone>
+    <phone>+31.71.5687600</phone>
     <electronicMailAddress>collectie@naturalis.nl</electronicMailAddress>
-    <onlineUrl>https://science.naturalis.nl/en/collection/naturalis-collections/</onlineUrl>
+    <onlineUrl>http://science.naturalis.nl</onlineUrl>
   </contact>
 </dataset>
   <additionalMetadata>
     <metadata>
       <gbif>
-          <dateStamp>2015-11-23T13:57:14.072+01:00</dateStamp>
+          <dateStamp>2014-08-19T11:01:14.072+00:00</dateStamp>
           <hierarchyLevel>dataset</hierarchyLevel>
-          <resourceLogoUrl>http://www.naturalis.nl/media/library/2012/07/Naturalis_logo_staand_rood_01.jpg</resourceLogoUrl>
-          <dc:replaces>fccafd83-a934-4021-a112-4ae5fd39c14b/v198.xml</dc:replaces>
+          <resourceLogoUrl>http://162.13.191.67/logo.do?r=amphibia_reptilia</resourceLogoUrl>
+          <dc:replaces>fccafd83-a934-4021-a112-4ae5fd39c14b/v114.xml</dc:replaces>
       </gbif>
     </metadata>
   </additionalMetadata>

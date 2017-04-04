@@ -6,7 +6,7 @@
          xml:lang="eng">
 
 <dataset>
-  <alternateIdentifier>fccafd83-a934-4021-a112-4ae5fd39c14b</alternateIdentifier>
+  <alternateIdentifier>doi:10.15468/cl6p3l</alternateIdentifier>
   <title xml:lang="eng">Naturalis Biodiversity Center (NL) - Diptera</title>
 <creator>
     <individualName>
@@ -45,7 +45,7 @@
     <onlineUrl>http://science.naturalis.nl</onlineUrl>
 </metadataProvider>
 <pubDate>
-      	2016-02-24
+      	2017-03-28
 </pubDate>
 <language>mul</language>
 <abstract>
@@ -60,7 +60,7 @@
         <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
       </keywordSet>
   <intellectualRights>
-    <para>This work is licensed under a Creative Commons CCZero 1.0 License http://creativecommons.org/publicdomain/zero/1.0/legalcode.</para>
+    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction</para>
   </intellectualRights>
   <coverage>
       <geographicCoverage>
